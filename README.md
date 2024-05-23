@@ -15,7 +15,7 @@ In order to get more insights about the proposed approach please have a look int
 
 ## License
 _Documents_: [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
-The documents in this project are licensed under the [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). Depending on usage, different forms of attribution are suitable. For scientific publications, we suggest to cite the paper [1] for scientific background; for purely technical work, refer to the Zenodo release [2] of this material.  
+The documents in this project are licensed under the [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). Depending on usage, different forms of attribution are suitable. For scientific publications, we suggest to cite the paper [1] for scientific background; for purely technical work, refer directly to this repository.  
 
 _Code_: [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 Any source code within documents, source code and document sources (in case of Latex) are licensed under the [MIT license](LICENSE).
