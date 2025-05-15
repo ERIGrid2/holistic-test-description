@@ -11,7 +11,7 @@ For _regular use_, refer to the ![templates](https://github.com/ERIGrid2/holisti
  * ![Test Case "canvas"](https://github.com/ERIGrid2/holistic-test-description/blob/master/Templates/ERIGrid_Test_Case_Canvas.pdf) -- for initial drafting of test cases; e.g. print out as A3 format and fill out during face-to-face meetings. The canvas also serves as single-page pdf presentation format of a test case.  
  * Test Description Templates -- typical use: one document per test cases, then adding test specifications and experiment specification tables, which can appear multiple times.
  
-In order to get more insights about the approach please have a look into the _examples_ which are provided in the Examples subfolder. Additional _examples_ are provided also in the linked *Documents for further reading* below. 
+_Guidelines_ explaining the approach and the different fields in the Test Description templates are in the ![this subfolder](https://github.com/ERIGrid2/holistic-test-description/tree/master/Guidelines). In order to get more insights about the approach please have a look into the _examples_ which are provided in the ![Examples subfolder](https://github.com/ERIGrid2/holistic-test-description/tree/master/Examples). Additional _examples_ are provided also in the linked *Documents for further reading* below. 
 
 ### Uncertainty Structure Analysis Template (USAT)
 
