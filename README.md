@@ -7,15 +7,15 @@ Templates and guidelines relating to the ERIGrid Holistic Test Description (HTD)
 ## Recommended use
 For _introductory use_, read the guidelines. You find concept definitions, explanations of the template fields, step-by-step instructions and a few examples. Better even, read the paper [1].
 
-For _regular use_, refer to the [![templates](https://github.com/ERIGrid2/holistic-test-description/tree/master/Templates):
- * [![Test Case "canvas"](https://github.com/ERIGrid2/holistic-test-description/blob/master/Templates/ERIGrid_Test_Case_Canvas.pdf) -- for initial drafting of test cases; e.g. print out as A3 format and fill out during face-to-face meetings. The canvas also serves as single-page pdf presentation format of a test case.  
+For _regular use_, refer to the ![templates](https://github.com/ERIGrid2/holistic-test-description/tree/master/Templates):
+ * ![Test Case "canvas"](https://github.com/ERIGrid2/holistic-test-description/blob/master/Templates/ERIGrid_Test_Case_Canvas.pdf) -- for initial drafting of test cases; e.g. print out as A3 format and fill out during face-to-face meetings. The canvas also serves as single-page pdf presentation format of a test case.  
  * Test Description Templates -- typical use: one document per test cases, then adding test specifications and experiment specification tables, which can appear multiple times.
  
 In order to get more insights about the approach please have a look into the _examples_ which are provided in the Examples subfolder. Additional _examples_ are provided also in the linked *Documents for further reading* below. 
 
 ### Uncertainty Structure Analysis Template (USAT)
 
-An extended use for experiment planning in case of multiple uncertainty sources was developed in ERIGrid 2.0. The _Uncertainty Structure Analysis Template_ (USAT), found in [![USAT subfolder](https://github.com/ERIGrid2/holistic-test-description/tree/master/UncertaintyStructureAnalysis) is an excel-based template that is based on component-oriented structure of the System-under-test. 
+An extended use for experiment planning in case of multiple uncertainty sources was developed in ERIGrid 2.0. The _Uncertainty Structure Analysis Template_ (USAT), found in ![USAT subfolder](https://github.com/ERIGrid2/holistic-test-description/tree/master/UncertaintyStructureAnalysis) is an excel-based template that is based on component-oriented structure of the System-under-test. 
 The template facilitates parameter screening and prioritization, but also the anticipation of uncertainty sources in different experiment implementations strategies.  
 The method is further described and exemplified in [11], which also should be referenced in case of future publications to reference its use.
 
