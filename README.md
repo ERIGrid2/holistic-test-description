@@ -5,7 +5,7 @@
 Templates and guidelines relating to the ERIGrid Holistic Test Description (HTD). 
 
 ## Recommended use
-For _introductory use_, read the ![guidelines](https://github.com/ERIGrid2/holistic-test-description/blob/master/Guidelines/ERIGrid_Holistic_Test_Description_and_Procedure_Guideline.pdf). Here you find concept definitions, explanations of the template fields, step-by-step instructions and a few examples. Better even, read the paper [1]. Further guidelines explaining the approach and the different fields in the Test Description templates are in ![this subfolder](https://github.com/ERIGrid2/holistic-test-description/tree/master/Guidelines).
+For _introductory use_, read the ![guidelines](https://github.com/ERIGrid2/holistic-test-description/blob/master/Guidelines/ERIGrid_Holistic_Test_Description_and_Procedure_Guideline_wUncertainty.pdf). Here you find concept definitions, explanations of the template fields, step-by-step instructions and a few examples. Better even, read the paper [1]. Further guidelines explaining the approach and the different fields in the Test Description templates are in ![this subfolder](https://github.com/ERIGrid2/holistic-test-description/tree/master/Guidelines).
 
 For _regular use_, refer to the ![templates](https://github.com/ERIGrid2/holistic-test-description/tree/master/Templates):
  * ![Test Case "canvas"](https://github.com/ERIGrid2/holistic-test-description/blob/master/Templates/ERIGrid_Test_Case_Canvas_v3.pdf) -- for initial drafting of test cases; e.g. print out as A3 format and fill out during face-to-face meetings. The canvas also serves as single-page pdf presentation format of a test case.  
