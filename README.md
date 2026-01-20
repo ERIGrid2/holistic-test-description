@@ -19,6 +19,12 @@ An extended use for experiment planning in case of multiple uncertainty sources 
 The template facilitates parameter screening and prioritization, but also the anticipation of uncertainty sources in different experiment implementations strategies.  
 The method is further described and exemplified in [11], which also should be referenced in case of future publications to reference its use.
 
+### Extended Description Templates
+
+System configurations and control functions can be documented in a more detailed and structured manner via dedicated templates (also available in the ![templates](https://github.com/ERIGrid2/holistic-test-description/tree/master/Templates) folder).
+This structured, platform-independent description format offers significant benefits, including the ability to generate both simulation models and real laboratory tests from the same specifications.
+This format improves test reproducibility by enabling seamless conversion between simulation tools or lab environments.
+The use of these additional templates is documented in [12].
 
 ## License
 _Documents_: [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
@@ -53,6 +59,8 @@ Any source code within documents, source code and document sources (in case of L
 [10] "Description of optimization strategies - An overview of the PreCISE approach used for the definition of simulation and optimization workflows", Deliverable D4.3, SmiLES Consortium, 2019. (https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5cd070ea9&appId=PPGMS)
 
 [11] Kai Heussen, Jan Sören Schwarz, Eike Schulte, Zhiwang Feng, Leonard Enrique Ramos Perez, John Nikoletatos, Filip Pröstl Andrén, "Uncertainty Annotations for Holistic Test Description of Cyber-physical Energy Systems", PowerTech 2025
+
+[12] P. Raussi, F. Pröstl Andrén, K. Heussen, E. Widl, "D-N4.3 Extended Test Description Method", Deliverable, ERIGrid 2.0 Consortium, 2024. (https://doi.org/10.5281/zenodo.14234745)
 
 ### Funding acknowledment
 
